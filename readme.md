@@ -11,10 +11,6 @@ enable static-type checks for geocodes
 - `Geocode` = `AsOfGlossary<string, 'Geocode'>`
 - `isGeocode`
 
-declare useful procedures to operate on geocodes
-- e.g., `getGeocodeOfGeocode`
-
-
 # install
 
 ```sh
